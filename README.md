@@ -2,6 +2,8 @@
 
 # ZhuaTech ComplaintAI
 
+[简体中文](README.md) | [English](README.en.md)
+
 ### 知华客户投诉智能运营平台 · 社区源码版
 
 **投诉分级、SLA 路由、跨部门处置与回访闭环**
